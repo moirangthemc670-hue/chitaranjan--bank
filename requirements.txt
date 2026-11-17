@@ -1,4 +1,3 @@
-Flask
+streamlit
 qrcode
 Pillow
-gunicorn
